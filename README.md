@@ -1,5 +1,5 @@
 # python-challenge-1
-This is for an interactive ordering system
+This is for an interactive ordering system\
 Customers will be able to:
 * View a selection of menu categories
 * Input a number corresponding to the desired menu selection
